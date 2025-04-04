@@ -1,0 +1,1 @@
+ E:\\GFG\\Movie_Database_Application\\.dart_tool\\flutter_build\\be12ee4be956fca5bdebd5defc7a6514\\native_assets.yaml: 
